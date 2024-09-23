@@ -1,0 +1,13 @@
+env:
+  - variable: NEXT_PUBLIC_API_KEY
+    secret: apiKey
+  - variable: NEXT_PUBLIC_AUTH_DOMAIN
+    secret: authDomain
+  - variable: NEXT_PUBLIC_PROJECT_ID
+    secret: projectId
+  - variable: NEXT_PUBLIC_STORAGE_BUCKET
+    secret: storageBucket
+  - variable: NEXT_PUBLIC_MESSAGIN_SENDER_ID
+    secret: messagingSenderId
+  - variable: NEXT_PUBLIC_APP_ID
+    secret: appId
